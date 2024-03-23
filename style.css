@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 
+body {
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+} */
+
+.main-navbar {
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.nav-m {
+    background-color: rgba(0, 150, 181, 0.4);
+    margin-top: 0 !important;
+    height: 1000px;
+}
+
+.line {
+    margin-top: 150px;
+    width: 65px;
+    height: 15px;
+    background-color: yellow;   
+}
+
+.u {
+    position: relative;
+    font-weight: 700;
+    font-size: 90px;
+    color: white;
+    margin-left: 150px;
+}
+
+.navbar {
+    display: flex;
+
+}
+
+.top-color {
+    background-color: yellow;
+    height: 400px;
+    width: 330px;
+    margin-left: 500px;
+}
+
+.top-text {
+    position: relative;
+    right: 150px;
+    color: white;
+    text-align: end !important;
+    margin-top: 150px;
+    font-size: 40px;
+    width: 150%;    
+}
+
+p {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+img {
+    margin-top: 190px;
+    margin-left: 520px;
+    width: 220px;
+    height: 190px;
+}
+
+.innovation {
+    margin-top: 19px;
+    color: white;
+    font-weight: 500;
+    font-size: 97px;
+    letter-spacing: 42px;
+    margin-left: 150px;
+}
+
+.tag-line {
+    letter-spacing: 9.5px;
+    font-size: 2.5rem;
+    color: white;
+    margin-left: 153px;
+}
+
+
+/* -------------------------------------------------------------------------- */
+
+
+.here {
+    font-weight: 900;
+    font-size: 125px;
+    color: yellow;
+    margin-left: 142px;
+    margin-right: 137px;
+}
+
+.hr {
+    color: rgb(34, 38, 46);
+    opacity: 0.8;
+    background-color: rgb(34, 38, 46);
+    width: 960px;
+    align-items: center;
+    height: 4px;
+    margin-left: 149px;
+}
+
+.main-footer {
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+}
+
+.main-text {
+    display: flex;
+}
+
+.our {
+    margin-left: 20px;
+    font-weight: 100;
+    font-size: 22px;
+}
+
+.service {
+    font-weight: 700;
+    font-size: 22px;
+    margin-left: 3px;
+    color: aqua;
+}
+
+.lorem-text {
+    font-size: 19px;
+    color: rgb(34, 38, 46);
+    margin-right: 30px;
+    margin-top: 5px;
+    /* margin-right: 100px; */
+    margin-left: 20px;
+}
+
+
+/* --------------------------------------------------------- */
+
+
+.footer {
+    display: flex;
+}
+
+/* .detailes {
+    display: flex;
+} */
+
+
+.bottom-sqr1 {
+    height: 130px;
+    width: 70px;
+    background-color: yellow;
+    margin-top: 90px;
+}
+
+.location {
+    display: flex;
+}
+
+.locationOne {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(34, 38, 46);
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.location-p {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.call {
+    display: flex;
+    margin-left: 50px;
+}
+
+.callOne {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(34, 38, 46);
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.call-p {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.mail {
+    display: flex;
+}
+
+.mailOne {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(34, 38, 46);
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.mail-p {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.website {
+    display: flex;
+    margin-left: 69px;
+}
+
+.websiteOne {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(34, 38, 46);
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.website-p {
+    font-weight: 500;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.detaile-1 {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 75px;
+}
+
+.detaile-2 {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.dot_logo {
+    height: 45px;
+    width: 180px;
+    margin-left: 80px;
+    margin-top: 110px;
+}
+
+.y_logo {
+    margin-top: 90px;
+    margin-left: 30px;
+    height: 70px;
+    width: 70px;
+}
+
+.bottom-sqr2 {
+    margin-left: 50px;
+    height: 130px;
+    width: 100px;
+    background-color: yellow;
+    margin-top: 90px;
+}
+
+
+
+
+
+
